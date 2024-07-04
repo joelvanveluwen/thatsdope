@@ -1,2 +1,1 @@
-# thatsdope
-Thats Dope static site
+# gh-pages
