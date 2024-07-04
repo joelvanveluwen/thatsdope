@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://joelvanveluwen.github.io/thatsdope/sitemap.xml

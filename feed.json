@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "That&#x27;s Dope",
+    "description": "",
+    "home_page_url": "https://joelvanveluwen.github.io/thatsdope",
+    "feed_url": "https://joelvanveluwen.github.io/thatsdope/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Joel Van Veluwen"
+    },
+    "items": [
+        {
+            "id": "https://joelvanveluwen.github.io/thatsdope/an-example.html",
+            "url": "https://joelvanveluwen.github.io/thatsdope/an-example.html",
+            "title": "An example",
+            "summary": "This is an example",
+            "content_html": "<p>This is an example</p>",
+            "author": {
+                "name": "Joel Van Veluwen"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-07-04T16:50:18-07:00",
+            "date_modified": "2024-07-04T16:50:18-07:00"
+        }
+    ]
+}
