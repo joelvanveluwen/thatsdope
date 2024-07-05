@@ -12,29 +12,30 @@
         {
             "id": "https://joelvanveluwen.github.io/thatsdope/example-2.html",
             "url": "https://joelvanveluwen.github.io/thatsdope/example-2.html",
-            "title": "Example 2",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://joelvanveluwen.github.io/thatsdope/media/posts/2/pizza.png\" alt=\"\" width=\"64\" height=\"64\" sizes=\"100vw\" srcset=\"https://joelvanveluwen.github.io/thatsdope/media/posts/2/responsive/pizza-xs.png 300w ,https://joelvanveluwen.github.io/thatsdope/media/posts/2/responsive/pizza-sm.png 480w ,https://joelvanveluwen.github.io/thatsdope/media/posts/2/responsive/pizza-md.png 768w ,https://joelvanveluwen.github.io/thatsdope/media/posts/2/responsive/pizza-lg.png 1024w ,https://joelvanveluwen.github.io/thatsdope/media/posts/2/responsive/pizza-xl.png 1360w ,https://joelvanveluwen.github.io/thatsdope/media/posts/2/responsive/pizza-2xl.png 1600w\"></figure>",
+            "title": "SFFD",
+            "image": "https://joelvanveluwen.github.io/thatsdope/media/posts/2/20240702-134230.jpg",
             "author": {
                 "name": "Joel Van Veluwen"
             },
             "tags": [
             ],
             "date_published": "2024-07-04T17:18:48-07:00",
-            "date_modified": "2024-07-04T17:18:48-07:00"
+            "date_modified": "2024-07-04T17:43:01-07:00"
         },
         {
             "id": "https://joelvanveluwen.github.io/thatsdope/an-example.html",
             "url": "https://joelvanveluwen.github.io/thatsdope/an-example.html",
-            "title": "An example",
+            "title": "Bridge ",
             "summary": "This is an example",
             "content_html": "<p>This is an example</p>",
+            "image": "https://joelvanveluwen.github.io/thatsdope/media/posts/1/Photo-DSC08799.JPG",
             "author": {
                 "name": "Joel Van Veluwen"
             },
             "tags": [
             ],
             "date_published": "2024-07-04T16:50:18-07:00",
-            "date_modified": "2024-07-04T16:50:18-07:00"
+            "date_modified": "2024-07-04T17:42:48-07:00"
         }
     ]
 }

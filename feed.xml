@@ -3,44 +3,44 @@
     <title>That&#x27;s Dope</title>
     <link href="https://joelvanveluwen.github.io/thatsdope/feed.xml" rel="self" />
     <link href="https://joelvanveluwen.github.io/thatsdope" />
-    <updated>2024-07-04T17:18:48-07:00</updated>
+    <updated>2024-07-04T17:43:01-07:00</updated>
     <author>
         <name>Joel Van Veluwen</name>
     </author>
     <id>https://joelvanveluwen.github.io/thatsdope</id>
 
     <entry>
-        <title>Example 2</title>
+        <title>SFFD</title>
         <author>
             <name>Joel Van Veluwen</name>
         </author>
         <link href="https://joelvanveluwen.github.io/thatsdope/example-2.html"/>
         <id>https://joelvanveluwen.github.io/thatsdope/example-2.html</id>
+        <media:content url="https://joelvanveluwen.github.io/thatsdope/media/posts/2/20240702-134230.jpg" medium="image" />
 
         <updated>2024-07-04T17:18:48-07:00</updated>
             <summary></summary>
-        <content type="html">
-            <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://joelvanveluwen.github.io/thatsdope/media/posts/2/pizza.png" alt="" width="64" height="64" sizes="100vw" srcset="https://joelvanveluwen.github.io/thatsdope/media/posts/2/responsive/pizza-xs.png 300w ,https://joelvanveluwen.github.io/thatsdope/media/posts/2/responsive/pizza-sm.png 480w ,https://joelvanveluwen.github.io/thatsdope/media/posts/2/responsive/pizza-md.png 768w ,https://joelvanveluwen.github.io/thatsdope/media/posts/2/responsive/pizza-lg.png 1024w ,https://joelvanveluwen.github.io/thatsdope/media/posts/2/responsive/pizza-xl.png 1360w ,https://joelvanveluwen.github.io/thatsdope/media/posts/2/responsive/pizza-2xl.png 1600w"></figure>
-            ]]>
-        </content>
+        <content></content>
     </entry>
     <entry>
-        <title>An example</title>
+        <title>Bridge </title>
         <author>
             <name>Joel Van Veluwen</name>
         </author>
         <link href="https://joelvanveluwen.github.io/thatsdope/an-example.html"/>
         <id>https://joelvanveluwen.github.io/thatsdope/an-example.html</id>
+        <media:content url="https://joelvanveluwen.github.io/thatsdope/media/posts/1/Photo-DSC08799.JPG" medium="image" />
 
         <updated>2024-07-04T16:50:18-07:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://joelvanveluwen.github.io/thatsdope/media/posts/1/Photo-DSC08799.JPG" alt="" />
                     This is an example
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://joelvanveluwen.github.io/thatsdope/media/posts/1/Photo-DSC08799.JPG" class="type:primaryImage" alt="" /></p>
                 <p>This is an example</p>
             ]]>
         </content>
