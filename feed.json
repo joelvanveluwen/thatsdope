@@ -25,9 +25,7 @@
         {
             "id": "https://joelvanveluwen.github.io/thatsdope/an-example.html",
             "url": "https://joelvanveluwen.github.io/thatsdope/an-example.html",
-            "title": "Bridge ",
-            "summary": "This is an example",
-            "content_html": "<p>This is an example</p>",
+            "title": "City",
             "image": "https://joelvanveluwen.github.io/thatsdope/media/posts/1/Photo-DSC08799.JPG",
             "author": {
                 "name": "Joel Van Veluwen"
@@ -35,7 +33,7 @@
             "tags": [
             ],
             "date_published": "2024-07-04T16:50:18-07:00",
-            "date_modified": "2024-07-04T17:42:48-07:00"
+            "date_modified": "2024-07-04T17:52:21-07:00"
         }
     ]
 }

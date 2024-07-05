@@ -3,7 +3,7 @@
     <title>That&#x27;s Dope</title>
     <link href="https://joelvanveluwen.github.io/thatsdope/feed.xml" rel="self" />
     <link href="https://joelvanveluwen.github.io/thatsdope" />
-    <updated>2024-07-04T17:43:01-07:00</updated>
+    <updated>2024-07-04T17:52:21-07:00</updated>
     <author>
         <name>Joel Van Veluwen</name>
     </author>
@@ -23,7 +23,7 @@
         <content></content>
     </entry>
     <entry>
-        <title>Bridge </title>
+        <title>City</title>
         <author>
             <name>Joel Van Veluwen</name>
         </author>
@@ -32,17 +32,7 @@
         <media:content url="https://joelvanveluwen.github.io/thatsdope/media/posts/1/Photo-DSC08799.JPG" medium="image" />
 
         <updated>2024-07-04T16:50:18-07:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://joelvanveluwen.github.io/thatsdope/media/posts/1/Photo-DSC08799.JPG" alt="" />
-                    This is an example
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://joelvanveluwen.github.io/thatsdope/media/posts/1/Photo-DSC08799.JPG" class="type:primaryImage" alt="" /></p>
-                <p>This is an example</p>
-            ]]>
-        </content>
+            <summary></summary>
+        <content></content>
     </entry>
 </feed>
